@@ -1,7 +1,7 @@
 /*
 * Created by Cloud Analogy on 17/07/2018.
 */
-public class Certificate_AccountVer_Controller {
+public class Certificate_AccountVer_Controller {// add changes
     
     @AuraEnabled
     public static list<MOIWrp> getAllRelatedMOI(String AccId){
